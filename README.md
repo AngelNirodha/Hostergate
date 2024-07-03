@@ -1,2 +1,2 @@
 # Hostergate
-A Fake Cloud Hosting Site landing page
+A Fake Cloud Hosting Site Landing Page
